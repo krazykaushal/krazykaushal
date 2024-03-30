@@ -1,14 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Kaushal Patel</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A self-taught Developer and ICT Undergrad from DA-IICT'24.</h3>
 
-- 🔭 I’m currently working on: **Plasma Simulation**
-
-- 🌱 I’m currently learning: **Backend and Database**
-
-- 💬 Ask me about: **React, Javascript, C++**
-
-- ⚡ Fun fact: **Lets Git together 😄**
+- 👨‍💻 Passionate about exploring things in the field of Computer Technology and Programming.
+- 📖 Keen learner and have strong fundamentals in Data Structure and Algorithm.
+- 💻 Fullstack Developer using **MERN**.
+- 🚀 Currently exploring **NextJS** and **Typescript** and something interesting.🤔💭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
